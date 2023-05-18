@@ -1,5 +1,8 @@
-.currently-reading { 
-
+.currently-reading h1 { 
+    font-size: 42px;
+    background: -webkit-linear-gradient(blue, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .currently-reading .currently-reading-text { 
